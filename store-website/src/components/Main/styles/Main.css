@@ -1,0 +1,36 @@
+.sidebar-open {
+    width: 9%;
+    height: 100%;
+    background-color: aqua;
+}
+  
+.sidebar-close {
+    width: 0%;
+    height: 100%;
+    display: none;
+}
+  
+.component-open {
+    width: 80%;
+    margin-left: 1%;
+}
+  
+.component-close {
+    width: 90%;
+    margin-left: 1%;
+}
+
+.boop {
+    width: 1%;
+    height: 100%;
+    background-color: blue;
+}
+
+.custom-container {
+    height: 100%;
+    width: 100%;
+}
+
+.high {
+    height:100vh;
+}
